@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Skin color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Black"
+    }
+  ],
+  "description": "The world's most adorable and sensitive punk.",
+  "image": "https://ipfs.io/ipfs/QmUfzsB6A2XraZ4iWnofC1wFuEQE1Nxv4EwqZL9nz8cfPi",
+  "name": "myPunk"
+}
